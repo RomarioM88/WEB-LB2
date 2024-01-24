@@ -1,0 +1,5 @@
+.idea
+vens
+*.db
+*.sqlite3
+.env
